@@ -6,6 +6,7 @@
 - Linkedin :- https://www.linkedin.com/in/parvesh-barak-42b6a9194/
 - Codechef :- https://www.codechef.com/users/parvesh_barak
 - Twitter :- https://twitter.com/ParveshBarak5
+- Instagram Handle:- https://www.instagram.com/barak.parvesh/
 
 <!---
 parveshbarak/parveshbarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
