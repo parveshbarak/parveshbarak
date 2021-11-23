@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parveshbarak
 - 👀 I’m a full Stack web developer
-- 🌱 I’m currently learning BlockChain Technology
 - 📚 I’m currently learning **Data Structures and Algorithms. && OOPs**.
 - 💞️ I’m looking to collaborate on Web development projects and startup Ideas
 
