@@ -1,3 +1,5 @@
+<!--
+
 - 👋 Hi, I’m @parveshbarak
 - 👀 I’m a full Stack web developer
 - 📚 I’m currently learning **Data Structures and Algorithms. && OOPs**.
@@ -27,14 +29,13 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/php-logo.png" alt="php"/> </a>
-    <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
-    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
+<!--
 </p>
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=parveshbarak&show_icons=true&theme=radical)
-
+-->
 <!---
 parveshbarak/parveshbarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
